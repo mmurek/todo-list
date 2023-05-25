@@ -1,2 +1,2 @@
-# Repozytorium utworzeone w ramach zajęć z POIO.
-## Moje pierwsze repozytorium
+## Repozytorium utworzeone w ramach zajęć z POIO.
+### Moje pierwsze repozytorium
